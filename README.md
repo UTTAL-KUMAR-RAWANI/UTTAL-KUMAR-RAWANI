@@ -12,9 +12,7 @@
 💬 Happy to discuss Python, Pandas, Data Engineering workflows, Machine Learning pipelines, and automation strategies.  
 
 ⚡ Passionate about transforming complex datasets into actionable insights that drive impactful decisions.
----
 
----
 
 ---
 
@@ -69,17 +67,15 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UTTAL-KUMAR-RAWANI&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=UTTAL-KUMAR-RAWANI&theme=github-dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=UTTAL-KUMAR-RAWANI&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UTTAL-KUMAR-RAWANI&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=UTTAL-KUMAR-RAWANI&theme=dark&hide_border=true" />
 </p>
 
----
 <p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UTTAL-KUMAR-RAWANI&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
