@@ -10,10 +10,6 @@
 ⚡ I enjoy transforming complex data into meaningful insights  
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/UTTAL-KUMAR-RAWANI/UTTAL-KUMAR-RAWANI/output/github-contribution-snake.svg)
-
 ---
 
 ---
@@ -80,3 +76,9 @@
 ---
 
 ![Visitors](https://visitcount.itsvg.in/api?id=UTTAL-KUMAR-RAWANI&icon=0&color=0)
+---
+
+
+![Snake animation](https://raw.githubusercontent.com/UTTAL-KUMAR-RAWANI/UTTAL-KUMAR-RAWANI/output/github-contribution-snake.svg)
+
+---
