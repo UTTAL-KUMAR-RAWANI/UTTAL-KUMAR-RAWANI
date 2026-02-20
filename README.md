@@ -59,7 +59,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics 📊
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UTTAL-KUMAR-RAWANI&show_icons=true&theme=github_dark&hide_border=true" />
@@ -74,7 +74,7 @@
 </p>
 ---
 
-## 🐍 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
@@ -82,7 +82,7 @@
 ---
 
 
-## 📌 Quote I Live By
+##  Quote I Live By
 
 <p align="center">
   <i>"Data is the new oil, but intelligence is the refinery."</i>
@@ -90,6 +90,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=UTTAL-KUMAR-RAWANI&icon=5&color=12" />
-</p>
