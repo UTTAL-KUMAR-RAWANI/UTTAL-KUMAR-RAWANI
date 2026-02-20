@@ -59,34 +59,28 @@
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=UTTAL-KUMAR-RAWANI&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=UTTAL-KUMAR-RAWANI&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UTTAL-KUMAR-RAWANI&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UTTAL-KUMAR-RAWANI&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=UTTAL-KUMAR-RAWANI&theme=github-dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UTTAL-KUMAR-RAWANI&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 ---
 
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/UTTAL-KUMAR-RAWANI/UTTAL-KUMAR-RAWANI/output/github-contribution-snake-dark.svg" />
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
-
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UTTAL-KUMAR-RAWANI&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ## 📌 Quote I Live By
 
