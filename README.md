@@ -1,84 +1,101 @@
-## About Me 👋
-👋 Hi, I'm Uttal — a passionate Data Science and Machine Learning enthusiast.
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Uttal%20Kumar%20Rawani&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Enthusiast&descAlignY=55" />
+</p>
 
-🔭 Currently building end-to-end Data Science and Machine Learning solutions using Python, focusing on real-world problem solving and model optimization.  
+<h2 align="center">🚀 Turning Data into Intelligent Solutions</h2>
 
-👯 Open to collaborating on AI-driven applications, advanced data analytics projects, and meaningful open-source contributions.  
+---
 
-🤝 Seeking guidance and collaboration opportunities in advanced Machine Learning, scalable model deployment, and production-grade AI systems.  
+## 👨‍💻 About Me
 
-🌱 Actively expanding my expertise in Deep Learning, Natural Language Processing (NLP), and Big Data technologies such as Apache Spark.  
+👋 Hi, I'm **Uttal**, a passionate **Data Scientist & ML Engineer in the making**.
 
-💬 Happy to discuss Python, Pandas, Data Engineering workflows, Machine Learning pipelines, and automation strategies.  
-
-⚡ Passionate about transforming complex datasets into actionable insights that drive impactful decisions.
-
+- 🔭 Building end-to-end ML & AI systems  
+- 🌱 Learning Deep Learning, NLP & Big Data (Spark)  
+- 🤝 Open to internships, research & collaborations  
+- 💬 Ask me about Python, Data Science & Automation  
+- ⚡ Love solving real-world problems with data  
 
 ---
 
 ## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/uttal_rawani_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttal-kumar-rawani/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajrawani9234@gmail.com)
+<p align="center">
+  <a href="https://www.instagram.com/uttal_rawani_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/uttal-kumar-rawani/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rajrawani9234@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### 🚀 Programming & Scripting
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### 🚀 Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,bash&theme=dark" />
+</p>
 
 ### 🌐 Web & Frameworks
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,flask,fastapi&theme=dark" />
+</p>
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=AmazonDynamoDB&logoColor=white)
-![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,githubactions&theme=dark" />
+</p>
 
 ### 📊 Data Science & ML
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
----
-
-
-## 📊 GitHub Statistics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UTTAL-KUMAR-RAWANI&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=UTTAL-KUMAR-RAWANI&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UTTAL-KUMAR-RAWANI&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,mysql,mongodb&theme=dark" />
 </p>
 
 ---
+
+## 📈 GitHub Analytics
+
 <p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=UTTAL-KUMAR-RAWANI&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=UTTAL-KUMAR-RAWANI&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UTTAL-KUMAR-RAWANI&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UTTAL-KUMAR-RAWANI/UTTAL-KUMAR-RAWANI/output/github-contribution-snake-dark.svg" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=UTTAL-KUMAR-RAWANI&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📌 Quote I Live By
+
+<p align="center">
+  <i>"Data is the new oil, but intelligence is the refinery."</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=UTTAL-KUMAR-RAWANI&icon=5&color=12" />
 </p>
