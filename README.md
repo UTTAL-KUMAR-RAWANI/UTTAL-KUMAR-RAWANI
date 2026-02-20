@@ -1,5 +1,16 @@
-# 💫 About Me:
-<br>🔭 I’m currently working on Data Science, Python projects, and Machine Learning models.  <br>👯 I’m looking to collaborate on AI, Data Analysis, and Open-Source projects.  <br>🤝 I’m looking for help with Advanced Machine Learning and Model Deployment.  <br>🌱 I’m currently learning Deep Learning, NLP, and Big Data (Spark).  <br>💬 Ask me about Python, Pandas, Data Science, and Automation.  <br>⚡ Fun fact: I enjoy turning real-world problems into data-driven solutions!
+## About Me 👋
+
+🔭 Currently building end-to-end Data Science and Machine Learning solutions using Python, focusing on real-world problem solving and model optimization.  
+
+👯 Open to collaborating on AI-driven applications, advanced data analytics projects, and meaningful open-source contributions.  
+
+🤝 Seeking guidance and collaboration opportunities in advanced Machine Learning, scalable model deployment, and production-grade AI systems.  
+
+🌱 Actively expanding my expertise in Deep Learning, Natural Language Processing (NLP), and Big Data technologies such as Apache Spark.  
+
+💬 Happy to discuss Python, Pandas, Data Engineering workflows, Machine Learning pipelines, and automation strategies.  
+
+⚡ Passionate about transforming complex datasets into actionable insights that drive impactful decisions.
 
 
 ## 🌐 Socials:
