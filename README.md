@@ -68,41 +68,14 @@
 
 ## 📊 GitHub Statistics
 
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=UTTAL-KUMAR-RAWANI&show_icons=true&theme=github_dark&hide_border=true"
-    media="(prefers-color-scheme: dark)" />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=UTTAL-KUMAR-RAWANI&show_icons=true&theme=default&hide_border=true"
-    media="(prefers-color-scheme: light)" />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=UTTAL-KUMAR-RAWANI&show_icons=true&hide_border=true"
-    alt="GitHub Stats" />
-</picture>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UTTAL-KUMAR-RAWANI&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=UTTAL-KUMAR-RAWANI&theme=github-dark&hide_border=true" height="170"/>
+</p>
 
-<picture>
-  <source 
-    srcset="https://nirzak-streak-stats.vercel.app/?user=UTTAL-KUMAR-RAWANI&theme=github-dark&hide_border=true"
-    media="(prefers-color-scheme: dark)" />
-  <source 
-    srcset="https://nirzak-streak-stats.vercel.app/?user=UTTAL-KUMAR-RAWANI&theme=default&hide_border=true"
-    media="(prefers-color-scheme: light)" />
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=UTTAL-KUMAR-RAWANI&hide_border=true"
-    alt="GitHub Streak" />
-</picture>
-
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UTTAL-KUMAR-RAWANI&layout=compact&theme=github_dark&hide_border=true"
-    media="(prefers-color-scheme: dark)" />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UTTAL-KUMAR-RAWANI&layout=compact&theme=default&hide_border=true"
-    media="(prefers-color-scheme: light)" />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UTTAL-KUMAR-RAWANI&layout=compact&hide_border=true"
-    alt="Top Languages" />
-</picture>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UTTAL-KUMAR-RAWANI&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+</p>
 
 ---
 <p align="center">
