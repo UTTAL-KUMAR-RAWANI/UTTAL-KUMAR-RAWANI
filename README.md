@@ -68,17 +68,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UTTAL-KUMAR-RAWANI&layout=compact&theme=dark)
 
 ---
-
-## 🔝 Top Contributions
-
-![Contributions](https://github-contributor-stats.vercel.app/api?username=UTTAL-KUMAR-RAWANI&limit=5&theme=shadow_green)
-
----
-
-![Visitors](https://visitcount.itsvg.in/api?id=UTTAL-KUMAR-RAWANI&icon=0&color=0)
----
-
-
-![Snake animation](https://raw.githubusercontent.com/UTTAL-KUMAR-RAWANI/UTTAL-KUMAR-RAWANI/output/github-contribution-snake.svg)
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 ---
