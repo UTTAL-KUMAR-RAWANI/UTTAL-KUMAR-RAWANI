@@ -8,6 +8,13 @@
 🌱 Exploring Deep Learning, NLP, and Big Data (Spark)  
 💬 Ask me about Python, Pandas, Data Science, and Automation  
 ⚡ I enjoy transforming complex data into meaningful insights  
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/UTTAL-KUMAR-RAWANI/UTTAL-KUMAR-RAWANI/output/github-contribution-snake.svg)
+
+---
 
 ---
 
