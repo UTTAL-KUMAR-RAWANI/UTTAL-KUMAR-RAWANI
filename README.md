@@ -1,13 +1,17 @@
-# 💫 About Me
-
+## About Me 👋
 👋 Hi, I'm Uttal — a passionate Data Science and Machine Learning enthusiast.
 
-🔭 Currently building real-world Data Science and ML projects using Python  
-👯 Open to collaborating on AI, Analytics, and Open-Source projects  
-🤝 Interested in learning advanced ML and scalable model deployment  
-🌱 Exploring Deep Learning, NLP, and Big Data (Spark)  
-💬 Ask me about Python, Pandas, Data Science, and Automation  
-⚡ I enjoy transforming complex data into meaningful insights  
+🔭 Currently building end-to-end Data Science and Machine Learning solutions using Python, focusing on real-world problem solving and model optimization.  
+
+👯 Open to collaborating on AI-driven applications, advanced data analytics projects, and meaningful open-source contributions.  
+
+🤝 Seeking guidance and collaboration opportunities in advanced Machine Learning, scalable model deployment, and production-grade AI systems.  
+
+🌱 Actively expanding my expertise in Deep Learning, Natural Language Processing (NLP), and Big Data technologies such as Apache Spark.  
+
+💬 Happy to discuss Python, Pandas, Data Engineering workflows, Machine Learning pipelines, and automation strategies.  
+
+⚡ Passionate about transforming complex datasets into actionable insights that drive impactful decisions.
 ---
 
 ---
@@ -61,11 +65,44 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=UTTAL-KUMAR-RAWANI&theme=dark&hide_border=false)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=UTTAL-KUMAR-RAWANI&theme=dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UTTAL-KUMAR-RAWANI&layout=compact&theme=dark)
+## 📊 GitHub Statistics
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=UTTAL-KUMAR-RAWANI&show_icons=true&theme=github_dark&hide_border=true"
+    media="(prefers-color-scheme: dark)" />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=UTTAL-KUMAR-RAWANI&show_icons=true&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light)" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=UTTAL-KUMAR-RAWANI&show_icons=true&hide_border=true"
+    alt="GitHub Stats" />
+</picture>
+
+<picture>
+  <source 
+    srcset="https://nirzak-streak-stats.vercel.app/?user=UTTAL-KUMAR-RAWANI&theme=github-dark&hide_border=true"
+    media="(prefers-color-scheme: dark)" />
+  <source 
+    srcset="https://nirzak-streak-stats.vercel.app/?user=UTTAL-KUMAR-RAWANI&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light)" />
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=UTTAL-KUMAR-RAWANI&hide_border=true"
+    alt="GitHub Streak" />
+</picture>
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UTTAL-KUMAR-RAWANI&layout=compact&theme=github_dark&hide_border=true"
+    media="(prefers-color-scheme: dark)" />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UTTAL-KUMAR-RAWANI&layout=compact&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light)" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UTTAL-KUMAR-RAWANI&layout=compact&hide_border=true"
+    alt="Top Languages" />
+</picture>
 
 ---
 <p align="center">
